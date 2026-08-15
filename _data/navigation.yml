@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Our Mission"
+    url: /our-mission/
+  - title: "Our Work"
+    url: /our-work/
+  - title: "A Brief History"
+    url: /history/
+  - title: "Contact Us"
+    url: /contact/
